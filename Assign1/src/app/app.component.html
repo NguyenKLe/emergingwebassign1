@@ -1,0 +1,26 @@
+<h2>Welcome to inventory web app</h2>
+<br>
+<h3>Select a method of collecting info</h3>
+<br>
+
+<button (click)="showJson()">Json</button>
+<button (click)="showXML()">XML</button>
+<p>Method of loading:{{method}}</p>
+<table>
+  <thead>
+    <th>Name</th>
+    <th>Quantity</th>
+    <th>Price</th>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of itemsdata">
+        <td *ngIf="item.quantity>0; else elseBlock">{{item.name}}</td>
+      <ng-template #elseBlock ><td><div class="outofstock">{{item.name}}</div></td></ng-template>
+        <td *ngIf="item.quantity>0; else elseBlock1">{{item.quantity}}</td>
+      <ng-template #elseBlock1 ><td><div class="outofstock">{{item.quantity}}</div></td></ng-template>
+        <td *ngIf="item.quantity>0; else elseBlock2">{{item.price}}</td>
+        <ng-template #elseBlock2 ><td><div class="outofstock">{{item.price}}</div></td></ng-template>
+    </tr>
+  </tbody>
+</table>
+

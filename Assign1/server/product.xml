@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <name>Apple</name>
+        <quantity>2000</quantity>
+        <price>1.99</price>
+    </product>
+	<product>
+        <name>Red Bull(473ml)</name>
+        <quantity>125</quantity>
+        <price>3.99</price>
+    </product>
+	<product>
+        <name>Strawberry (1lb)</name>
+        <quantity>1000</quantity>
+        <price>3.59</price>
+    </product>
+	<product>
+        <name>Banana (1lb)</name>
+        <quantity>2000</quantity>
+        <price>1.99</price>
+    </product>
+	<product>
+        <name>Carrot(1kg)</name>
+        <quantity>200</quantity>
+        <price>6.99</price>
+    </product>
+	<product>
+        <name>Corn</name>
+        <quantity>0</quantity>
+        <price>0.99</price>
+    </product>
+	<product>
+        <name>Mountain-Dew(bottle-591ml)</name>
+        <quantity>3000</quantity>
+        <price>3.49</price>
+    </product>
+	<product>
+        <name>Coke(bottle-591ml)</name>
+        <quantity>2000</quantity>
+        <price>3.49</price>
+    </product>
+	<product>
+        <name>Root-Beer(bottle-591ml)</name>
+        <quantity>3000</quantity>
+        <price>3.49</price>
+    </product>
+	<product>
+        <name>Orange(1lb)</name>
+        <quantity>300</quantity>
+        <price>3.99</price>
+    </product>
+	<product>
+        <name>Red-Grapes(1lb)</name>
+        <quantity>300</quantity>
+        <price>2.99</price>
+    </product>
+	<product>
+        <name>Green-Grapes(1lb)</name>
+        <quantity>250</quantity>
+        <price>2.39</price>
+    </product>
+	<product>
+        <name>Nestle-Water(500ml)</name>
+        <quantity>4000</quantity>
+        <price>1.29</price>
+    </product>
+	<product>
+        <name>Nestle-Water(1l)</name>
+        <quantity>2000</quantity>
+        <price>1.99</price>
+    </product>
+	<product>
+        <name>Nestle-Water(1.5l)</name>
+        <quantity>3000</quantity>
+        <price>2.29</price>
+    </product>
+	<product>
+        <name>Fanta(2l)</name>
+        <quantity>250</quantity>
+        <price>2.39</price>
+    </product>
+	<product>
+        <name>Pepsi(2l)</name>
+        <quantity>500</quantity>
+        <price>1.39</price>
+    </product>
+	<product>
+        <name>Doritos Nato Cheese(255g)</name>
+        <quantity>0</quantity>
+        <price>2.99</price>
+    </product>
+	<product>
+        <name>Lays Original(250g)</name>
+        <quantity>300</quantity>
+        <price>2.99</price>
+    </product>
+	<product>
+        <name>Lays BBQ(250g)</name>
+        <quantity>300</quantity>
+        <price>2.99</price>
+    </product>
+	<product>
+        <name>Lays Salt Vinegar(250g)</name>
+        <quantity>250</quantity>
+        <price>2.99</price>
+    </product>
+	<product>
+        <name>Lime(3lbs)</name>
+        <quantity>85</quantity>
+        <price>2.45</price>
+    </product>
+	
+</products>

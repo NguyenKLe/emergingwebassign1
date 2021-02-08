@@ -1,0 +1,115 @@
+{
+  "products":[
+      {
+        "name": "Apple",
+        "quantity": 2000,
+        "price": 1.99
+      },
+      {
+        "name": "Red Bull(473ml)",
+        "quantity": 125,
+        "price": 3.99
+      },
+      {
+        "name": "Strawberry (1lb)",
+        "quantity": 1000,
+        "price": 3.59
+      },
+      {
+        "name": "Banana (1lb)",
+        "quantity": 2000,
+        "price": 1.99
+      },
+      {
+        "name": "Carrot(1kg)",
+        "quantity": 200,
+        "price": 6.99
+      },
+      {
+        "name": "Corn",
+        "quantity": 2000,
+        "price": 0.99
+      },
+      {
+        "name": "Mountain-Dew(bottle-591ml)",
+        "quantity": 3000,
+        "price": 3.49
+      },
+      {
+        "name": "Coke(bottle-591ml)",
+        "quantity": 2000,
+        "price": 3.49
+      },
+      {
+        "name": "Root-Beer(bottle-591ml)",
+        "quantity": 3000,
+        "price": 3.49
+      },
+      {
+        "name": "Orange(1lb)",
+        "quantity": 300,
+        "price": 3.99
+      },
+      {
+        "name": "Red-Grapes(1lb)",
+        "quantity": 300,
+        "price": 2.99
+      },
+      {
+        "name": "Green-Grapes(1lb)",
+        "quantity": 250,
+        "price": 2.39
+      },
+      {
+        "name": "Nestle-Water(500ml)",
+        "quantity": 4000,
+        "price": 1.29
+      },
+      {
+        "name": "Nestle-Water(1l)",
+        "quantity": 2000,
+        "price": 1.99
+      },
+      {
+        "name": "Nestle-Water(1.5l)",
+        "quantity": 3000,
+        "price": 2.29
+      },
+      {
+        "name": "Fanta(2l)",
+        "quantity": 250,
+        "price": 2.39
+      },
+      {
+        "name": "Pepsi(2l)",
+        "quantity": 500,
+        "price": 1.39
+      },
+      {
+        "name": "Doritos Nato Cheese(255g)",
+        "quantity": 250,
+        "price": 2.99
+      },
+      {
+        "name": "Lays Original(250g)",
+        "quantity": 300,
+        "price": 2.99
+      },
+      {
+        "name": "Lays BBQ(250g)",
+        "quantity": 300,
+        "price": 2.99
+      },
+      {
+        "name": "Lays Salt Vinegar(250g)",
+        "quantity": 250,
+        "price": 2.99
+      },
+      {
+        "name": "Lime(3lbs)",
+        "quantity": 85,
+        "price": 2.45
+      }
+    ]
+  
+}
